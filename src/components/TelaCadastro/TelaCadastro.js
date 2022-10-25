@@ -4,6 +4,7 @@ function TelaCadastro(props) {
   return (
     <FormContainer>
       <h1>Cadastro </h1>
+      <br />
       <Form>
         <StyledLabel htmlFor="titulo">
           Nome:
